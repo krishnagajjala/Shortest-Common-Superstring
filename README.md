@@ -1,6 +1,7 @@
 # Shortest-Common-Superstring
+-Code in private repo
 
- Code has two components:
+Program has two components:
 
 (a) A basic sequencing simulator
 
